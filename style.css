@@ -462,7 +462,7 @@ p {
 	}
 	/* End contact  */
 }
-/* End Media Query For Tablet */
+
 
 /* Media Query For Desktop */
 @media only screen and (min-width: 1200px) {
@@ -488,6 +488,8 @@ p {
 	}
 	/* End header */
 
+
+	/*media query services*/ 
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
 		margin: 1.5%;
